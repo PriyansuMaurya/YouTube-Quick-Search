@@ -1,0 +1,10 @@
+{
+  "extensionName": {
+    "message": "YouTube Quick Search",
+    "description": "Name of the extension"
+  },
+  "extensionDescription": {
+    "message": "Search YouTube directly from the extension popup.",
+    "description": "Description of the extension"
+  }
+} 

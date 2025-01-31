@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Quick Search",
+  "version": "1.0",
+  "description": "Search YouTube directly from the extension popup.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  },
+  "permissions": [
+    "activeTab",
+    "tabs"
+  ],
+  "default_locale": "en"
+}
